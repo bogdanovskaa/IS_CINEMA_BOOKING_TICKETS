@@ -1,0 +1,9 @@
+D:\Git Desktop\Cinema_Tickets\FileUploadControl\bin\Debug\netcoreapp2.0\FileUploadControl.deps.json
+D:\Git Desktop\Cinema_Tickets\FileUploadControl\bin\Debug\netcoreapp2.0\FileUploadControl.dll
+D:\Git Desktop\Cinema_Tickets\FileUploadControl\bin\Debug\netcoreapp2.0\FileUploadControl.pdb
+D:\Git Desktop\Cinema_Tickets\FileUploadControl\obj\Debug\netcoreapp2.0\FileUploadControl.csprojAssemblyReference.cache
+D:\Git Desktop\Cinema_Tickets\FileUploadControl\obj\Debug\netcoreapp2.0\FileUploadControl.csproj.CoreCompileInputs.cache
+D:\Git Desktop\Cinema_Tickets\FileUploadControl\obj\Debug\netcoreapp2.0\FileUploadControl.AssemblyInfoInputs.cache
+D:\Git Desktop\Cinema_Tickets\FileUploadControl\obj\Debug\netcoreapp2.0\FileUploadControl.AssemblyInfo.cs
+D:\Git Desktop\Cinema_Tickets\FileUploadControl\obj\Debug\netcoreapp2.0\FileUploadControl.dll
+D:\Git Desktop\Cinema_Tickets\FileUploadControl\obj\Debug\netcoreapp2.0\FileUploadControl.pdb

@@ -1,0 +1,15 @@
+D:\Git Desktop\Cinema_Tickets\OnlineMovieTicketBooking\bin\Debug\netcoreapp2.0\OnlineMovieTicketBooking.deps.json
+D:\Git Desktop\Cinema_Tickets\OnlineMovieTicketBooking\bin\Debug\netcoreapp2.0\OnlineMovieTicketBooking.runtimeconfig.json
+D:\Git Desktop\Cinema_Tickets\OnlineMovieTicketBooking\bin\Debug\netcoreapp2.0\OnlineMovieTicketBooking.runtimeconfig.dev.json
+D:\Git Desktop\Cinema_Tickets\OnlineMovieTicketBooking\bin\Debug\netcoreapp2.0\OnlineMovieTicketBooking.dll
+D:\Git Desktop\Cinema_Tickets\OnlineMovieTicketBooking\bin\Debug\netcoreapp2.0\OnlineMovieTicketBooking.pdb
+D:\Git Desktop\Cinema_Tickets\OnlineMovieTicketBooking\bin\Debug\netcoreapp2.0\FileUploadControl.dll
+D:\Git Desktop\Cinema_Tickets\OnlineMovieTicketBooking\bin\Debug\netcoreapp2.0\FileUploadControl.pdb
+D:\Git Desktop\Cinema_Tickets\OnlineMovieTicketBooking\obj\Debug\netcoreapp2.0\OnlineMovieTicketBooking.csprojAssemblyReference.cache
+D:\Git Desktop\Cinema_Tickets\OnlineMovieTicketBooking\obj\Debug\netcoreapp2.0\OnlineMovieTicketBooking.csproj.CoreCompileInputs.cache
+D:\Git Desktop\Cinema_Tickets\OnlineMovieTicketBooking\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\Git Desktop\Cinema_Tickets\OnlineMovieTicketBooking\obj\Debug\netcoreapp2.0\OnlineMovieTicketBooking.AssemblyInfoInputs.cache
+D:\Git Desktop\Cinema_Tickets\OnlineMovieTicketBooking\obj\Debug\netcoreapp2.0\OnlineMovieTicketBooking.AssemblyInfo.cs
+D:\Git Desktop\Cinema_Tickets\OnlineMovieTicketBooking\obj\Debug\netcoreapp2.0\OnlineMovieTicketBooking.csproj.CopyComplete
+D:\Git Desktop\Cinema_Tickets\OnlineMovieTicketBooking\obj\Debug\netcoreapp2.0\OnlineMovieTicketBooking.dll
+D:\Git Desktop\Cinema_Tickets\OnlineMovieTicketBooking\obj\Debug\netcoreapp2.0\OnlineMovieTicketBooking.pdb
